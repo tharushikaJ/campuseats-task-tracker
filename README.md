@@ -1,7 +1,7 @@
 # campuseats-task-tracker
 
 cmnds
-git clone https://github.com/tharushikaJ/campuseats-task-tracker —  downloads a full copy of the remote repo to your machine.
+git clone https://github.com/tharushikaJ/campuseats-task-tracker —  downloads a full copy of the remote repo to your machine./n
 cd campuseats-task-tracker 
 git status — shows the current branch and whether there are uncommitted changes.
 mkdir src — creates a new folder named src.
